@@ -22,7 +22,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/PPRADHEEP/Portfolio-Pradheep.git",
   "eslintConfig": {
     "extends": [
       "react-app",
