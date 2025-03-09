@@ -1,0 +1,31 @@
+.skills {
+    padding: 40px;
+    background: linear-gradient(135deg, #f4f4f4, #ffffff);
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .skills h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+  }
+  
+  .skills li {
+    padding: 10px;
+    background-color: #eef2f7;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #555;
+  }
+  

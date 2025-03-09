@@ -1,0 +1,35 @@
+.header {
+  padding: 20px;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.header p {
+  font-size: 26px;
+  font-style: italic;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.header a:hover {
+  text-decoration: underline;
+  color: #61dafb;
+}

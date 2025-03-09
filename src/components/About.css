@@ -1,0 +1,66 @@
+.about {
+  padding: 40px;
+  background: linear-gradient(135deg, #f7f7f7, #ffffff);
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.about h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.profile-pic {
+  width: 40%; /* Slightly bigger size */
+  max-width: 200px; /* Caps the max size */
+  height: auto;
+  margin: 20px auto;
+  border-radius: 50%; /* Circular image */
+  border: 5px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds shadow */
+}
+
+.about p {
+  font-size: 18px;
+  color: #555;
+  line-height: 1.8;
+  margin: 20px 0;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: space-between; /* Aligns items side by side */
+  align-items: flex-start; /* Aligns to the top */
+  gap: 20px; /* Adds space between columns */
+  margin-top: 20px;
+}
+
+.tech-stack, .soft-skills {
+  flex: 1; /* Ensures equal width for both sections */
+  padding: 20px;
+  background-color: #eef2f7;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds subtle shadow */
+}
+
+.tech-stack h3, .soft-skills h3 {
+  font-size: 20px;
+  color: #0056b3;
+  margin-bottom: 15px;
+  text-align: center; /* Centers the section title */
+}
+
+.tech-stack ul, .soft-skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tech-stack li, .soft-skills li {
+  font-size: 16px;
+  color: #333;
+  margin: 8px 0;
+}

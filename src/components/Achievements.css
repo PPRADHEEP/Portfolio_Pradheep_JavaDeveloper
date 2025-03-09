@@ -1,0 +1,41 @@
+.achievements {
+    padding: 40px;
+    background: linear-gradient(135deg, #f7f7f7, #ffffff);
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .achievements h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .certifications {
+    display: flex;
+    flex-direction: column; /* Makes the items stack vertically */
+    align-items: center; /* Centers the items horizontally */
+    gap: 20px; /* Adds spacing between items */
+  }
+  
+  .cert-item {
+    text-align: center;
+    max-width: 300px; /* Limits the width of each certification block */
+  }
+  
+  .cert-item img {
+    width: 100px; /* Resizes the logos for a neat appearance */
+    height: 100px;
+    object-fit: cover; /* Ensures the image maintains its proportions */
+    margin-bottom: 10px;
+    border-radius: 10px; /* Slightly rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .cert-item p {
+    font-size: 18px;
+    color: #555;
+  }
+  
