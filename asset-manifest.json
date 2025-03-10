@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a33b8732.css",
-    "main.js": "/static/js/main.627e80dd.js",
-    "static/media/Pradheep.jpg": "/static/media/Pradheep.39af80c8a72a8b6d2c5d.jpg",
-    "static/media/typing-logo.png": "/static/media/typing-logo.b029ab045b4665aa7ac1.png",
-    "static/media/full-stack-logo.png": "/static/media/full-stack-logo.f39b2c28a8c9202ac706.png",
-    "index.html": "/index.html",
-    "main.a33b8732.css.map": "/static/css/main.a33b8732.css.map",
-    "main.627e80dd.js.map": "/static/js/main.627e80dd.js.map"
+    "main.css": "/Portfolio_Pradheep_JavaDeveloper/static/css/main.a33b8732.css",
+    "main.js": "/Portfolio_Pradheep_JavaDeveloper/static/js/main.57f49865.js",
+    "static/media/Pradheep.jpg": "/Portfolio_Pradheep_JavaDeveloper/static/media/Pradheep.39af80c8a72a8b6d2c5d.jpg",
+    "static/media/typing-logo.png": "/Portfolio_Pradheep_JavaDeveloper/static/media/typing-logo.b029ab045b4665aa7ac1.png",
+    "static/media/full-stack-logo.png": "/Portfolio_Pradheep_JavaDeveloper/static/media/full-stack-logo.f39b2c28a8c9202ac706.png",
+    "index.html": "/Portfolio_Pradheep_JavaDeveloper/index.html",
+    "main.a33b8732.css.map": "/Portfolio_Pradheep_JavaDeveloper/static/css/main.a33b8732.css.map",
+    "main.57f49865.js.map": "/Portfolio_Pradheep_JavaDeveloper/static/js/main.57f49865.js.map"
   },
   "entrypoints": [
     "static/css/main.a33b8732.css",
-    "static/js/main.627e80dd.js"
+    "static/js/main.57f49865.js"
   ]
 }
